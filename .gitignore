@@ -1,0 +1,27 @@
+# UE 官方忽略规则
+*.sln.DotSettings.user
+.idea/
+.vs/
+.vsconfig
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+*.log
+*.bak
+*.tmp
+*.tmpdir
+*.swp
+*~
+
+# 自定义补充
+MyThirdPerson.sln.DotSettings.user
+EOF
